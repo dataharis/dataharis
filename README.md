@@ -16,15 +16,15 @@
 
 ## 🌎 Let's Connect:
 <p align="left">
-<a href="https://linkedin.com/in/arishsaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arishsaifi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dataharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arishsaifi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21326987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21326987" height="30" width="40" /></a>
 <a href="https://fb.com/harishsaifi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harishsaifi01" height="30" width="40" /></a>
-<a href="https://instagram.com/harissaifi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harissaifi__" height="30" width="40" /></a>
+<a href="https://instagram.com/dataharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harissaifi__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harishsaifi2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harishsaifi2003" height="30" width="40"/></a>
 <a href="https://www.kaggle.com/arishsaifi28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kaggle" height="30" width="40"/></a>
-<a href="https://www.geeksforgeeks.org/user/harishsaifi2003" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="gfg" height="30" width="40"/></a>
-<a href="https://leetcode.com/harishsaifi2003" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40"/></a>
-<a href="https://www.harishsaifi.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="30" width="40"/></a>
+<a href="https://www.geeksforgeeks.org/user/dataharis" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="gfg" height="30" width="40"/></a>
+<a href="https://leetcode.com/dataharis" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40"/></a>
+<a href="https://www.dataharis.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="30" width="40"/></a>
 </p>
 
 ---
@@ -57,10 +57,10 @@
 ---
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arishsaifi&show_icons=true&locale=en&layout=compact" alt="arishsaifi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataharis&show_icons=true&locale=en&layout=compact" alt="arishsaifi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arishsaifi&show_icons=true&locale=en" alt="arishsaifi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dataharis&show_icons=true&locale=en" alt="arishsaifi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arishsaifi&" alt="arishsaifi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dataharis&" alt="arishsaifi" /></p>
 
 ---
